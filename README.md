@@ -6,7 +6,7 @@ This is a social network for enterprises & organizations.
 Installation
 ------------
 
-If you are on ubuntu follow [ubuntu-specific installation](https://ci.open-paas.org/stash/projects/OR/repos/rse/doc/elasticsearch).
+If you are on ubuntu follow [ubuntu-specific installation](https://ci.open-paas.org/stash/projects/OR/repos/rse/doc/install-ubuntu).
 
 1. clone the repository
 
